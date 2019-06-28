@@ -1,3 +1,6 @@
 [submodule "express-ssr"]
 	path = express-ssr
 	url = https://github.com/androi7/express-ssr
+[submodule "express-submodule"]
+	path = express-submodule
+	url = git://github.com/androi7/express-submodule.git
